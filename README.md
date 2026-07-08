@@ -62,10 +62,6 @@ pip install numpy matplotlib seaborn jupyter
 
 This is primarily a personal learning repository, but suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-This project currently has no license specified. Feel free to reach out if you'd like to use any part of it.
-
 ## 👩‍💻 Author
 
 **Manisha Dutt**
@@ -73,4 +69,4 @@ GitHub: [@ManishaDutt11](https://github.com/ManishaDutt11)
 
 ---
 
-⭐ If you find this helpful, consider starring the repo!
+
